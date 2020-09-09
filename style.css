@@ -8,7 +8,7 @@ textarea {
   background: transparent;
   border: none;
   border-left: 1px solid black;
-  color: #000000;
+  color: black;
   padding: 10px;
   resize: none;
 }
@@ -25,36 +25,38 @@ textarea {
   white-space: pre-wrap;
 }
 
-.time-block {
-  border-radius: 15px;
-  text-align: center;
-}
-
 .row {
+  border-radius: 15px;
   border-top: 1px solid white;
   height: 80px;
+  text-align: center;
   white-space: pre-wrap;
+}
+
+h5 {
+  padding-top: 25px;
+  text-align: right;
 }
 
 .hour {
   background-color: #ffffff;
-  border-top: 1px dashed #000000;
-  color: #000000;
+  border-top: 1px dashed black;
+  color: black;
 }
 
 .past {
   background-color: #d3d3d3;
-  color: white;
+  color: black;
 }
 
 .present {
   background-color: #ff6961;
-  color: white;
+  color: black;
 }
 
 .future {
   background-color: #77dd77;
-  color: white;
+  color: black;
 }
 
 .saveBtn {
@@ -65,12 +67,8 @@ textarea {
   color: white;
 }
 
-.saveBtn i:hover {
+i:hover {
   color: black;
   font-size: 20px;
   transition: all .3s ease-in-out;
-}
-
-h5 {
-  text-align: right;
 }
