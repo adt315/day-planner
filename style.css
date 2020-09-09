@@ -25,11 +25,14 @@ textarea {
   white-space: pre-wrap;
 }
 
-.row {
+.time-block {
   border-radius: 15px;
+  text-align: center;
+}
+
+.row {
   border-top: 1px solid white;
   height: 80px;
-  text-align: center;
   white-space: pre-wrap;
 }
 
@@ -40,8 +43,10 @@ h5 {
 
 .hour {
   background-color: #ffffff;
+  border-bottom: 1px dashed black;
   border-top: 1px dashed black;
   color: black;
+  height: 80px;
 }
 
 .past {
@@ -65,6 +70,7 @@ h5 {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   color: white;
+  height: 80px;
 }
 
 i:hover {
