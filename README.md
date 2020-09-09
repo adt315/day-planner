@@ -14,7 +14,7 @@ This application runs in the browser and features dynamically updated HTML and C
 
 - When the user clicks into a timeblock they can enter an event and click the save button
 
-- After the user clicks save, the event will be saved and still be there when the webpage is refreshed
+- After the user clicks save, the event will be saved and will still be there when the webpage is refreshed
 
 
 https://adt315.github.io/day-planner/
