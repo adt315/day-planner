@@ -12,3 +12,4 @@ This application runs in the browser and features dynamically updated HTML and C
 - After the user clicks save, the event will be saved and will still be there when the webpage is refreshed
 
 https://adt315.github.io/day-planner/
+![Day Planner Screenshot](https://user-images.githubusercontent.com/51940058/92640912-fad7d680-f2ab-11ea-89bc-7d45f978cb5d.png)
